@@ -1,0 +1,71 @@
+1 sbi
+1 hdfc
+1 dena
+1 jpmorgan
+5 sbi rupee
+5 sbi dollar
+5 sbi pound
+5 sbi euro
+5 sbi yen
+5 hdfc rupee
+5 hdfc dollar
+5 hdfc euro
+5 hdfc yen
+5 dena rupee
+5 dena dollar
+5 dena pound
+5 dena yen
+5 jpmorgan rupee
+5 jpmorgan dollar
+5 jpmorgan pound
+5 jpmorgan euro
+5 jpmorgan yen
+3 sbi rupee dollar 10
+3 sbi dollar yen 5
+3 sbi yen pound 4
+3 sbi pound dollar 6
+3 sbi rupee euro 10
+3 sbi euro rupee 5
+3 hdfc rupee dollar 4
+3 hdfc dollar rupee 3
+3 hdfc rupee yen 2
+3 hdfc yen euro 5
+3 hdfc dollar euro 2
+3 hdfc euro rupee 7
+3 dena rupee dollar 7
+3 dena dollar yen 6
+3 dena rupee yen 5
+3 dena yen pound 7
+3 dena dollar pound 2
+3 jpmorgan rupee dollar 1
+3 jpmorgan rupee euro 2
+3 jpmorgan euro dollar 9
+3 jpmorgan euro yen 3
+3 jpmorgan rupee yen 7
+3 jpmorgan rupee pound 8
+4 jpmorgan rupee pound
+9 rupee dollar
+8
+7 sbi
+9 rupee pound
+4 sbi dollar yen
+4 sbi rupee euro
+7 sbi
+1 grameen
+5 sbi rupee
+5 sbI rupee
+5 grameen dirham
+5 grameen rupee
+9 rupee dirham
+3 grameen rupee dirham 5
+9 rupee dirham
+4 hdfc rupee dollar
+4 hdfc rupee yen
+7 hdfc
+10
+
+
+
+
+
+
